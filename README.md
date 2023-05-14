@@ -79,3 +79,5 @@ npm install -g newman-reporter-htmlextra
 	> In this section we deleted the information of the id that we called and successfully got the result.
 
 ## Newman Report Summary:
+![1](https://github.com/Mahim-Hasan/Booking-REST-API-Testing/assets/77658882/d543e570-af34-4eaf-8f7c-becf4f3e202c)
+![2](https://github.com/Mahim-Hasan/Booking-REST-API-Testing/assets/77658882/d915cb73-d03c-49d2-b157-39ae9e2667a6)
