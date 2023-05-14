@@ -80,4 +80,4 @@ npm install -g newman-reporter-htmlextra
 
 ## Newman Report Summary:
 ![1](https://github.com/Mahim-Hasan/Booking-REST-API-Testing/assets/77658882/d543e570-af34-4eaf-8f7c-becf4f3e202c)
-![2](https://github.com/Mahim-Hasan/Booking-REST-API-Testing/assets/77658882/d915cb73-d03c-49d2-b157-39ae9e2667a6)
+![3](https://github.com/Mahim-Hasan/Booking-REST-API-Testing/assets/77658882/0c4ecfeb-8009-4545-a110-7c8b5e6745c0)
