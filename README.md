@@ -62,7 +62,7 @@ npm install -g newman-reporter-htmlextra
  	6. > Additional Needs
  	
 5. ### Get Updated Booking
-	> In this section we tested wether the updated field values successfully added ot not and validated the following field vales:
+	> In this section we tested wether the updated field values successfully added ot not and validated the following field values:
 	1. > First Name
  	2. > Last Name
  	3. > Total Price
